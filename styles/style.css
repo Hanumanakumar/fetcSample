@@ -1,0 +1,42 @@
+.flexParent{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content: center;
+	max-width:100%;
+}
+
+.flexChild{
+	max-width:20%;
+	border:1px solid #ddd;
+	box-shadow:3px 3px 3px #ddd;
+	margin:2%;
+	padding:2%;
+}
+
+h2,
+h3{
+	text-align: center;
+	text-shadow:2px 2px 2px #ddd;
+}
+
+header{
+	font-size:24px;
+	font-weight:550;
+	text-align: center;
+	border:1px solid #4F72F3;
+	width:100%;
+	background:#4F72F3;
+	color:#fff;
+	padding: 1%;
+	box-shadow:3px 3px 3px #ddd;
+}
+
+button{
+	border:1px solid #4F72F3;
+	width:100%;
+	background:#4F72F3;
+	color:#fff;
+	padding: 1%;
+	box-shadow:3px 3px 3px #ddd;
+}
