@@ -1,0 +1,29 @@
+{
+	"products":[
+{
+	"name":"Redmi 4A",
+	"image":"images/1.jpg",
+	"price":"Rs: 3/-"
+},
+{
+	"name":"Nokia 6",
+	"image":"images/2.jpg",
+	"price":"Rs: 33/-"
+},
+{
+	"name":"Smartron T Phone",
+	"image":"images/3.jpg",
+	"price":"Rs: 333/-"
+},
+{
+	"name":"Moto G5",
+	"image":"images/4.jpg",
+	"price":"Rs: 3333/-"
+},
+{
+	"name":"Micromax Canvas",
+	"image":"images/5.jpg",
+	"price":"Rs: 33333/-"
+}
+]
+}
