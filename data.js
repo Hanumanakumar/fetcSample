@@ -18,7 +18,7 @@ function logError(error){
   error_msg="Looks like there was a problem:"+error;
 }
 
-loadJSON("data1.json").then(data => {
+loadJSON("data.json").then(data => {
   // Here's a list of repos!
   console.log(data);
   products(data.products);
